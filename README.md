@@ -1,34 +1,27 @@
 ## Profile
 
-I am a first year Ph.D. student in Electrical and Computer Engineering at the University of Texas at Austin under the supervision of [Prof. Robert W. Heath Jr.](http://www.profheath.org/) and [Prof. Haris Vikalo](http://users.ece.utexas.edu/~hvikalo/index.html) and where I am a member of the  at the Wireless Networking and Communications Group ([WNCG](https://wncg.org/)) . I am interested in the theory of problems in the intersection of machine learning, communications and sensing but with real world applications, particularly to autonomous systems. I 
+I am a first year Ph.D. student in Electrical and Computer Engineering at the University of Texas at Austin under the supervision of [Prof. Robert W. Heath Jr.](http://www.profheath.org/) and [Prof. Haris Vikalo](http://users.ece.utexas.edu/~hvikalo/index.html). I am a member of the a member of the Wireless Networking and Communications Group ([WNCG](https://wncg.org/)) interested in the theoretical problems in the intersection of machine learning, communications and sensing, with real world applications, particularly to autonomous systems.
 
-Before, I completed my B.S. in Mathematics from [Universidad de Los Andes](https://uniandes.edu.co/en) in 2015 in Colombia. I worked on Monte Carlo methods for hypothesis testing on contingency tables under the supervision of [Prof. Mauricio Velasco](http://wwwprof.uniandes.edu.co/~mvelasco/Velasco.html). Afterwards, I had the chance to work with Google LA through the [Research for industrial Problems for Students](http://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2018/?tab=overview) at UCLA, and later as a data science researcher for industry and government projects at [Quantil](http://quantil.co/).
+## Experience
+I completed my B.S. in Mathematics from [Universidad de Los Andes](https://uniandes.edu.co/en) in 2015 in Colombia. I worked on Monte Carlo methods for hypothesis testing on contingency tables under the supervision of [Prof. Mauricio Velasco](http://wwwprof.uniandes.edu.co/~mvelasco/Velasco.html). Afterwards, I had the chance to work with Google LA through the [Research for industrial Problems for Students](http://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2018/?tab=overview) program at UCLA, and later as a data science researcher for industry and government projects at [Quantil](http://quantil.co/).
 
-You can use the [editor on GitHub](https://github.com/mriberodiaz/mriberodiaz.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+At UT Austin I was a TA for the [Data Science Lab](https://users.ece.utexas.edu/~dimakis/DataScienceLab.html) undergraduate course. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
+### Research
+
+Collaborative Sensing
+
+Channel EStimation
+link adaptation
+Beam Training
+
+crime
+UCLA - 
+Tesis
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
