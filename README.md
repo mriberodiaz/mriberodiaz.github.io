@@ -1,3 +1,5 @@
+![im](/images/foto.png)
+
 ## Profile
 
 I am a first year Ph.D. student in Electrical and Computer Engineering at the University of Texas at Austin under the supervision of [Prof. Robert W. Heath Jr.](http://www.profheath.org/) and [Prof. Haris Vikalo](http://users.ece.utexas.edu/~hvikalo/index.html). I am a member of the a member of the Wireless Networking and Communications Group ([WNCG](https://wncg.org/)) interested in the theoretical problems in the intersection of machine learning, communications and sensing, with real world applications, particularly to autonomous systems.
