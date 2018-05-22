@@ -17,13 +17,15 @@ Channel EStimation
 link adaptation
 Beam Training
 
-*#### QuantilI Investigated Natural Language Processing techniques for Colombia's peace treaty and collaborated in the development of  [this site](http://www.acuerdosdepaz.co/). I also worked on comparing different crime prediction models for the Secretary of Security of Bogot·, Colombia.
+* #### [Quantil](http://quantil.co/)
+I Investigated Natural Language Processing techniques for Colombia's peace treaty and collaborated in the development of  [this site](http://www.acuerdosdepaz.co/). I also worked on comparing different crime prediction models for the Secretary of Security of Bogot√°, Colombia.
 
 * #### Exploiting geographic and business type diversity for recommender systems
 
 University of California, Los Angeles, [Institute for Pure and Applied Mathematics](www.ipam.ucla.edu).  I was a participant of [RIPS LA](http://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2018/?tab=overview), a research program for undergraduate students in industrial problems. The project, sponsored by Google LA, explored recommender systems using the Yelp Challenge Dataset and focused on recommender systems using optimization techniques and natural language processing. 
 
 
-* #### Undergraduate thesis: Sampling lattice points from polytopes. 
-Advisor: Mauricio Velasco. We considered a new algorithmto sample from a discrete set by sampling from a convex continuous set and using aneffective ?rounding? to obtain integer points from the lattice. This problem has application insampling contingency tables for hypothesis testing.
-* #### Portfolio Optimization in the Colombian Stock Market
+* #### Undergraduate thesis: Sampling lattice points from polytopes. 
+Advisor: Mauricio Velasco. We considered a new algorithm to sample from a discrete set by sampling from a convex continuous set and using an effective rounding to obtain integer points from the lattice. This problem has application in sampling contingency tables for hypothesis testing.
+
+* #### Portfolio optimization in the colombian stock market
