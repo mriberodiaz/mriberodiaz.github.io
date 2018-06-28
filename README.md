@@ -16,7 +16,6 @@ Accurate situational awareness is critical in autonomy applications like vehicle
 
 
 * #### Machine Learning for mmWave V2I 
-
 Selecting transmission parameters in millimeter-wave (mmWave) vehicular communication is a challenging task and current solutions rely on exhaustive search, lookup tables, etc., which leads to significant overheads, delays and suboptimal solutions. We propose to learn these parameters by exploiting situational awareness and leveraging machine learning tools with the past transmissions. 
 
 * #### [Quantil](http://quantil.co/)
