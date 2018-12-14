@@ -1,6 +1,6 @@
 ## Profile
 
-I am a first year Ph.D. student in Electrical and Computer Engineering at the University of Texas at Austin under the supervision of [Prof. Robert W. Heath Jr.](http://www.profheath.org/) and [Prof. Haris Vikalo](http://users.ece.utexas.edu/~hvikalo/index.html). I am a member of the Wireless Networking and Communications Group ([WNCG](https://wncg.org/)) interested in the theoretical problems in the intersection of machine learning, communications and sensing, with real world applications, particularly to autonomous systems.
+I am a first year Ph.D. student in Electrical and Computer Engineering at the University of Texas at Austin under the supervision of [Prof. Robert W. Heath Jr.](http://www.profheath.org/) and [Prof. Haris Vikalo](http://users.ece.utexas.edu/~hvikalo/index.html). I am a member of the Wireless Networking and Communications Group ([WNCG](https://wncg.org/)) interested in the theoretical problems in the intersection of machine learning, communications, with real world applications. Particularly to autonomous systems.
 
 ## Experience
 I completed my B.S. in Mathematics from [Universidad de Los Andes](https://uniandes.edu.co/en) in 2015 in Colombia. I worked on Monte Carlo methods for hypothesis testing on contingency tables under the supervision of [Prof. Mauricio Velasco](http://wwwprof.uniandes.edu.co/~mvelasco/Velasco.html). Afterwards, I had the chance to work with Google LA through the [Research for industrial Problems for Students](http://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2018/?tab=overview) program at UCLA, and later as a data science researcher for industry and government projects at [Quantil](http://quantil.co/).
@@ -11,8 +11,9 @@ I was a TA for Linear Algebra, Integral Calculus and, at UT Austin, I was a TA f
 
 ### Research
 
-* #### Collaborative Sensing
-Accurate situational awareness is critical in autonomy applications like vehicles and robots. In my research I explore collaborative systems among sensors for scene recognition and tracking. I am exploring how data sharing and collaboration can enhance performance. Some code can be found [here](https://github.com/mriberodiaz/colSensing)
+* #### Collaborative Learning and Sensing
+The sharing of vast data resources by device networks raises privacy and communication constraints. Mobile devices and autonomous vehicles are some relevant examples. My research focuses on finding how to compress information and quantifying the uncertainty of learning models in distributed settings given this compression. I have also explored collaborative systems among sensors for scene recognition and tracking. Some code can be found [here](https://github.com/mriberodiaz/colSensing)
+
 
 
 * #### Machine Learning for mmWave V2I 
