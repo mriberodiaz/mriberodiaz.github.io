@@ -10,6 +10,8 @@ I was a TA for Linear Algebra, Integral Calculus and, at UT Austin, I was a TA f
 
 
 ### Research
+* #### Communication and privacy constrained federated learning: 
+I investigated model pruning to reduce the number of parameters in federated settings. We achieve 85% accuracy with only 10% of the parameters.  I am also studying a federated framework to factorize a rating matrix. We provide differential privacy guarantees and 30% improvement on average ranking.
 
 * #### Collaborative Learning and Sensing
 The sharing of vast data resources by device networks raises privacy and communication constraints. Mobile devices and autonomous vehicles are some relevant examples. My research focuses on finding how to compress information and quantifying the uncertainty of learning models in distributed settings given this compression. I have also explored collaborative systems among sensors for scene recognition and tracking. Some code can be found [here](https://github.com/mriberodiaz/colSensing)
