@@ -1,11 +1,11 @@
 ## Profile
 
-I am a second year Ph.D. student in Electrical and Computer Engineering at the University of Texas at Austin under the supervision of [Prof. Haris Vikalo](http://users.ece.utexas.edu/~hvikalo/index.html) and [Prof. Robert W. Heath Jr.](http://www.profheath.org/). I am a member of the Wireless Networking and Communications Group ([WNCG](https://wncg.org/)) interested in the theoretical problems in the intersection of machine learning, communications, and their applications to the real world.
+I am a second year Ph.D. student in Electrical and Computer Engineering at the University of Texas at Austin under the supervision of [Prof. Haris Vikalo](http://users.ece.utexas.edu/~hvikalo/index.html) and [Prof. Robert W. Heath Jr.](http://www.profheath.org/). I am interested in the theoretical problems in the intersection of machine learning, communications, and their applications to the real world. Particularly, I am working on designing federated learning algorithms that satisfy communication and privacy constraints. I am a member of the Wireless Networking and Communications Group ([WNCG](https://wncg.org/)). 
 
 ## Experience
 I completed my B.S. in Mathematics from [Universidad de Los Andes](https://uniandes.edu.co/en) in 2015 in Colombia. I worked on Monte Carlo methods for hypothesis testing on contingency tables under the supervision of [Prof. Mauricio Velasco](http://wwwprof.uniandes.edu.co/~mvelasco/Velasco.html). Afterwards, I had the chance to work with Google LA through the [Research for industrial Problems for Students](http://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2018/?tab=overview) program at UCLA, and later as a data science researcher for industry and government projects at [Quantil](http://quantil.co/).
 
-I was a TA for Linear Algebra, Integral Calculus and, at UT Austin, I was a TA for the [Data Science Lab](https://users.ece.utexas.edu/~dimakis/DataScienceLab.html) undergraduate course. 
+I was a TA for Linear Algebra and  Integral Calculus at Universidad de Los Andes. At UT Austin, I was a TA for the [Data Science Lab](https://users.ece.utexas.edu/~dimakis/DataScienceLab.html) undergraduate course, and currently for convex optimization. 
 
 
 
