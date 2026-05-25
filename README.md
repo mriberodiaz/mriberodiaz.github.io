@@ -7,7 +7,7 @@ My research focuses broadly on enabling private machine learning systems. Recent
 Earlier, I earned my B.S. in Mathematics from [Universidad de Los Andes](https://uniandes.edu.co/en) in Bogotá, Colombia, under the supervision of [Prof. Mauricio Velasco](http://wwwprof.uniandes.edu.co/~mvelasco/Velasco.html), and worked as a data science researcher at [Quantil](https://quantil.co/).
 
 ## Selected Publications
-A list of publications from 2024 and onwards. For a complete list of my work, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=MonicaRibero).
+A list of publications from 2024 and onwards. For a complete list of my work, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=z18908cAAAAJ&hl=es).
 
 * **Regularized $f$-Divergence Kernel Tests**. **AISTATS 2026**.  
   With Antonin Schrab and Arthur Gretton.  
@@ -34,9 +34,4 @@ A list of publications from 2024 and onwards. For a complete list of my work, pl
   [[Paper]](https://ieeexplore.ieee.org/document/9963723)
 
 ## Other
-I enjoy movement (climbing, yoga, swimming, biking), reading fiction (Annie Dillard's short stories or Juan Gabriel Vasquez novels), and try my best to stay connected with the machine learning community in Colombia and South America.
-
-## Experience
-I completed my B.S. in Mathematics from [Universidad de Los Andes](https://uniandes.edu.co/en) in 2015 in Colombia. I worked on Monte Carlo methods for hypothesis testing on contingency tables under the supervision of [Prof. Mauricio Velasco](http://wwwprof.uniandes.edu.co/~mvelasco/Velasco.html). Afterwards, I had the chance to work with Google LA through the [Research for industrial Problems for Students](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2018/?tab=overview) program at UCLA, and later as a data science researcher for industry and government projects at [Quantil](https://quantil.co/).
-
-I was a TA for Linear Algebra and Integral Calculus at Universidad de Los Andes. During my PhD at UT Austin, I had the opportunity to intern at Bell Labs, CognitiveScale, and Google. I was also a TA for the [Data Science Lab](https://users.ece.utexas.edu/~dimakis/DataScienceLab.html) undergraduate course, and for the convex optimization graduate course.
+Outside of research, I enjoy movement (climbing, yoga, swimming, biking), reading fiction (Annie Dillard’s, Chesterton, Flannery O'Connor stories or Juan Gabriel Vasquez novels, and recently *The Brothers Karamazov*), and try my best to stay connected with the machine learning community in Colombia and South America.

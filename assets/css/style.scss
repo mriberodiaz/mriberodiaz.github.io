@@ -21,8 +21,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 32px !important;
+  font-size: 24px !important; // slightly smaller to fit Mónica Ribero Díaz on one line
   margin-bottom: 10px !important;
+  text-align: center !important; // center the name
+  line-height: 1.3 !important;
 }
 
 h1 a {
@@ -51,10 +53,11 @@ a:hover, a:focus {
   text-decoration: none !important;
 }
 
-// Sidebar/Header specific styling
+// Sidebar/Header specific styling (Centered Brooklyn vibe)
 header {
   width: 240px !important;
   float: left !important;
+  text-align: center !important; // center description, name, etc.
 }
 
 header img {
@@ -64,12 +67,14 @@ header img {
   object-fit: cover !important;
   border: 4px solid #EAE6DF !important; // soft stone border
   box-shadow: 0 8px 24px rgba(46, 43, 42, 0.06) !important; // very soft shadow
-  margin-bottom: 20px !important;
+  margin: 0 auto 20px auto !important; // center the image
+  display: block !important;
 }
 
 header p {
   color: #7C7571 !important;
   font-size: 14px !important;
+  text-align: center !important;
 }
 
 header ul {
@@ -89,6 +94,7 @@ footer {
   float: left !important;
   clear: both !important;
   margin-top: 40px !important;
+  text-align: center !important; // center footer under sidebar
 }
 
 footer p {
@@ -96,15 +102,17 @@ footer p {
   color: #9C9591 !important;
 }
 
-// Social links list styling
+// Social links list styling (Centered block, left-aligned items)
 .social-links {
-  margin-top: 20px !important;
+  margin: 25px auto 0 auto !important;
   padding: 0 !important;
   list-style: none !important;
+  display: inline-block !important; // fits content size
+  text-align: left !important; // keeps icons lined up neatly
 }
 
 .social-links li {
-  margin-bottom: 10px !important;
+  margin-bottom: 12px !important;
   font-size: 14px !important;
 }
 
