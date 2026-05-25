@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
+
+        {% if site.logo %}
+          <img src="{{ site.logo | relative_url }}" alt="Mónica Ribero Díaz" />
+        {% endif %}
+
+        <p class="description">{{ site.description }}</p>
+
+        {% if site.social %}
+        <ul class="social-links">
+          {% if site.social.scholar %}
+            <li><a href="{{ site.social.scholar }}" target="_blank">📚 Google Scholar</a></li>
+          {% endif %}
+          {% if site.social.github %}
+            <li><a href="{{ site.social.github }}" target="_blank">🐙 GitHub Profile</a></li>
+          {% endif %}
+          {% if site.social.linkedin %}
+            <li><a href="{{ site.social.linkedin }}" target="_blank">🔗 LinkedIn</a></li>
+          {% endif %}
+          {% if site.social.email %}
+            <li><a href="mailto:{{ site.social.email }}">✉️ Contact Email</a></li>
+          {% endif %}
+        </ul>
+        {% endif %}
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+        <p><small>Hosted on GitHub Pages &mdash; Minimal theme</small></p>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>

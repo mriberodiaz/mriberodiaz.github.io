@@ -1,3 +1,11 @@
-theme: jekyll-theme-minimal
+theme:jekyll-theme-minimal
 title: Mónica Ribero Díaz
 logo: /images/original_a48ac2b2-1913-47f6-8a9b-e30325c8059d_PXL_20220103_102254727.jpg
+description: Research Scientist at Google
+
+# Custom Social Links for Sidebar
+social:
+  scholar: "https://scholar.google.com/citations?user=MonicaRibero"
+  github: "https://github.com/mriberodiaz"
+  linkedin: "https://www.linkedin.com/in/m%C3%B3nica-ribero-d%C3%ADaz-a320347a/"
+  email: "mriberodiaz@gmail.com" # You can adjust this to your preferred contact email
