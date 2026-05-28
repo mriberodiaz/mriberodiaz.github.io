@@ -27,7 +27,7 @@ A list of publications from 2024 and onwards. For a complete list of my work, pl
 
 * **DP-Auditorium: A large-scale library for auditing differential privacy**. **IEEE S&P 2024**.  
   With William Kong, Andres Munoz Medina, and Umar Syed.  
-  [[Paper]](https://arxiv.org/abs/2402.04351)
+  [[Paper]](https://ieeexplore.ieee.org/abstract/document/10646691)
 
 * **Federated learning at scale: Addressing client intermittency and resource constraints**. **IEEE JSTSP 2024**.  
   With Haris Vikalo and Gustavo de Veciana.  
